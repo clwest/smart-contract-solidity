@@ -7,3 +7,6 @@ How do we test this?
 2. `development` with mocks
 3. `testnet`
 
+Upcoming:
+use chainlink to randomly select winner
+add a react front end to run multiply lottery's at the same time
